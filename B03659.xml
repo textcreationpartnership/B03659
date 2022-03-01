@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dying tears of a true lover forsaken, made on his death-bed; the hour before his death. To the tune of, Come live with me.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678-1681?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03659</idno>
+            <idno type="STC">Wing H1987</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[86]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[126]</idno>
+            <idno type="EEBO-CITATION">99887113</idno>
+            <idno type="PROQUEST">ocm99887113</idno>
+            <idno type="VID">183317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183317)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[86]; A5:2[108])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dying tears of a true lover forsaken, made on his death-bed; the hour before his death. To the tune of, Come live with me.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, J. Clarke, W. Thackeray, and T. Passinger.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1678-1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>The names of the lovers are said to have been Hugh Hill and Sarah.</note>
+                  <note>Verse: "Those gentle hearts that true love crave ..."</note>
+                  <note>Item at A5:2[108] trimmed.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="126" facs="tcp:183317:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <head>The dying tears of a true Lover forſaken,</head>
+            <head type="sub">Made on his Death-bed; the hour before his Death.</head>
+            <opener>The Tune is, <hi>Come live with me.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>Thoſe gentle hearts that true love crave,</l>
+                  <l>Where true love can no harbour have,</l>
+                  <l>From ſhedding tears cannot refrain,</l>
+                  <l>But mourn with me that lov'd in vain</l>
+                  <l>Sore ſick in love, ſore ſick in mind,</l>
+                  <l>Come gentle death my life unwind,</l>
+                  <l>For Cupids ſhaft and golden Bow,</l>
+                  <l>Now ſeeks my joys to overthrow.</l>
+               </lg>
+               <lg>
+                  <l>Upon my Death-bed I have pen'd,</l>
+                  <l>The Story of my woful end;</l>
+                  <l>Vain world behold I dye, I dye,</l>
+                  <l>Here murthered by loves cruelty:</l>
+                  <l>O <hi>Sarah Hill</hi> thou art the Wight,</l>
+                  <l>That turn'd my joy to ſharp delight,</l>
+                  <l>Thou art the cauſer of my death,</l>
+                  <l>Farewel falſe love, farewel my breath.</l>
+               </lg>
+               <lg>
+                  <l>Be warn'd you wantons by my fall,</l>
+                  <l>In love there is no truth at all;</l>
+                  <l>Although in love you live untrue,</l>
+                  <l>There is ſome Maids as falſe as you:</l>
+                  <l>Her beauty dazled ſo mine eyes,</l>
+                  <l>That in her breaſt my heart ſtill lies,</l>
+                  <l>I lov'd her, but ſhe lov'd not me,</l>
+                  <l>Wherefore behold, I dye, I dye.</l>
+               </lg>
+               <lg>
+                  <l>O curſed eyes, why did you gaze,</l>
+                  <l>Vpon her fair and flattering face?</l>
+                  <l>O wherefore did my eyes unfold,</l>
+                  <l>One fram'd of ſuch unconſtant mould:</l>
+                  <l>Come wrap me in my winding-ſheet,</l>
+                  <l>And bear me ſadly through the ſtreet,</l>
+                  <l>That from her eyes ſalt tears may ſhed,</l>
+                  <l>When for her ſake ſhe ſees me dead.</l>
+               </lg>
+               <lg>
+                  <l>In outward ſhew ſhe joyned hands,</l>
+                  <l>And vow'd to live in wedlock bands,</l>
+                  <l>But ſhe unkind hath me diſpis'd,</l>
+                  <l>And broke my heart ſo highly priz'd:</l>
+                  <l>O Lord what grief do I ſuſtain;</l>
+                  <l>Which liv'd diſpis'd, and lov'd in vain,</l>
+                  <l>But Lord how well are they apaid,</l>
+                  <l>Which hap to chuſe a conſtant Maid.</l>
+               </lg>
+               <lg>
+                  <l>There is no living wight that knows,</l>
+                  <l>The pineing pain and endleſs woes,</l>
+                  <l>That we forſaken Lovers hide,</l>
+                  <l>But ſuch as have the torments try'd:</l>
+                  <l>I needs muſt yield now death doth fade,</l>
+                  <l>Deaths coming cannot be denay'd:</l>
+                  <l>O reach the Bible, pray to me,</l>
+                  <l>For that my ſouls true love ſhall be.</l>
+               </lg>
+               <lg>
+                  <l>Go tole my Paſſing-bell, dear friends,</l>
+                  <l>For here a Lovers journey ends:</l>
+                  <l>But mark what fortune ſhe ſhall have,</l>
+                  <l>When ſhe hath clos'd me in the Grave,</l>
+                  <l>I do not doubt but you ſhall ſee,</l>
+                  <l>Her body paid in miſery:</l>
+                  <l>And made a laughing-ſtock to thoſe,</l>
+                  <l>Who now her great unkindneſs knows.</l>
+               </lg>
+               <lg>
+                  <l>You of the Gentle-craft that be,</l>
+                  <l>Shew this kind favour unto me,</l>
+                  <l>That to the world this mournful Song,</l>
+                  <l>Be chanted ſweetly you among:</l>
+                  <l>And ſome of you I do requeſt,</l>
+                  <l>To bear me to my longing reſt,</l>
+                  <l>And lay my carkaſs in the ground,</l>
+                  <l>With ringing Bells melodious ſound.</l>
+               </lg>
+               <lg>
+                  <l>To my dear love then go and ſay,</l>
+                  <l>Her change of mind caſt me away,</l>
+                  <l>Bid her hard heart ſo conſtant prove,</l>
+                  <l>To him that next ſhall be her love:</l>
+                  <l>With that he yielded up his life,</l>
+                  <l>Where death gave end to further ſtrife:</l>
+                  <l>Deſiring God that ſits in Heaven,</l>
+                  <l>His lovers ſins might be forgiven.</l>
+               </lg>
+               <lg>
+                  <l>Thus have you heard <hi>Hugh Hills</hi> good mind</l>
+                  <l>Who never proved in love unkind:</l>
+                  <l>But to his end continued true,</l>
+                  <l>Not changing old friend for a new.</l>
+               </lg>
+               <trailer>FINIS</trailer>
+            </div>
+            <div n="2" type="part">
+               <pb n="127" facs="tcp:183317:1"/>
+               <!-- PDF PAGE 26 -->
+               <head>The ſecond part.</head>
+               <opener>to the ſame Tune.</opener>
+               <lg>
+                  <l>COme young Laſſes and liſten well,</l>
+                  <l>Vnto the tale that I ſhall tell,</l>
+                  <l>For unto you I will unfold</l>
+                  <l>A matter worthy to be told:</l>
+                  <l>There was a young man lov'd me well,</l>
+                  <l>A Shoomaker his name <hi>Hugh Hill,</hi>
+                  </l>
+                  <l>His heart with love did burn amain,</l>
+                  <l>And I ſeem'd to love him again.</l>
+               </lg>
+               <lg>
+                  <l>Then were we made ſure together,</l>
+                  <l>But I unconſtant as the weather,</l>
+                  <l>Did him forſake, I was ſo nice,</l>
+                  <l>When in the Church were asked thrice,</l>
+                  <l>When that he ſaw I was unkind,</l>
+                  <l>And that I had a cruel mind,</l>
+                  <l>For love of me he left his life,</l>
+                  <l>Becauſe I would not be his wife.</l>
+               </lg>
+               <lg>
+                  <l>I never car'd what he did ſay,</l>
+                  <l>But ſuffered him to pine away:</l>
+                  <l>And when he yielded up his breath,</l>
+                  <l>I quickly had forgot his death,</l>
+                  <l>But in my Bed upon a time,</l>
+                  <l>As many things came in my mind,</l>
+                  <l>There ſmiling to my ſelf I ſaid,</l>
+                  <l>I think that I ſhall dye a maid.</l>
+               </lg>
+               <lg>
+                  <l>Then many a Youth I thought upon,</l>
+                  <l>I lov'd and fancy'd many a one:</l>
+                  <l>I hated ſome, and ſome reſerv'd,</l>
+                  <l>To like and love as they deſerv'd:</l>
+                  <l>But in the midſt of all my choice,</l>
+                  <l>I heard a lamentable voice,</l>
+                  <l>With Muſick ſounding to the ear,</l>
+                  <l>But not to me as did appear.</l>
+               </lg>
+               <lg>
+                  <l>For when I heard what it might be</l>
+                  <l>And what was cauſe of this Melody,</l>
+                  <l>And at my window a voice did cry,</l>
+                  <l>
+                     <hi>Hugh Hill</hi> is dead, fie <hi>Sarah</hi> fie,</l>
+                  <l>My conſcience then tormented me,</l>
+                  <l>Of my falſe heart and treachery,</l>
+                  <l>And evermore the voice would cry,</l>
+                  <l>Go pine thy ſelf repent and dye,</l>
+               </lg>
+               <lg>
+                  <l>Methought it was the voice of <hi>Hugh,</hi>
+                  </l>
+                  <l>Of good <hi>Hugh Hill</hi> that was ſo true,</l>
+                  <l>That was ſo faithful unto me,</l>
+                  <l>Yet uſed him moſt wickedly:</l>
+                  <l>O there he did my faults expreſs,</l>
+                  <l>And I the ſame muſt needs confeſs,</l>
+                  <l>For I kill'd him with cruelty,</l>
+                  <l>For which I would but cannot dye</l>
+               </lg>
+               <lg>
+                  <l>And ſince that time my heart is light,</l>
+                  <l>And all my body altred quite,</l>
+                  <l>My eyes are ſunk into my head,</l>
+                  <l>Which makes me look like one that's dead</l>
+                  <l>My face that was ſo freſh and fine,</l>
+                  <l>As clear as is the Claret wine,</l>
+                  <l>Is now transform'd to another hue,</l>
+                  <l>Both grim and loathſome to the view.</l>
+               </lg>
+               <lg>
+                  <l>My skin is whither'd, my fleſh is gone,</l>
+                  <l>And nothing left but skin and bone,</l>
+                  <l>And now I pine moſt dolefully,</l>
+                  <l>Wiſhing for death but cannot dye,</l>
+                  <l>Therefore ſweet Maids that ſuiſtors have</l>
+                  <l>Yeild unto them that true love crave,</l>
+                  <l>O do not caſt a man away,</l>
+                  <l>Leſt you your ſelves go to decay.</l>
+               </lg>
+               <lg>
+                  <l>If unto you a young-man come,</l>
+                  <l>You are ſo fine you'l ne'r have none,</l>
+                  <l>Vntil your beauty fade away,</l>
+                  <l>You ſcorn moſt men you are ſo coy:</l>
+                  <l>Fie, fie, remember what you are,</l>
+                  <l>Do not refuſe while you are fair,</l>
+                  <l>Vnto you true loves be not coy,</l>
+                  <l>'Tis good to take them while you may.</l>
+               </lg>
+               <lg>
+                  <l>As you be coy, ſo <hi>I</hi> have been,</l>
+                  <l>But ſee the miſery <hi>I</hi> live in,</l>
+                  <l>That was it not for my ſouls health,</l>
+                  <l>
+                     <hi>I</hi> would be willing to kill my ſelf:</l>
+                  <l>Therefore fair Maids amend in time,</l>
+                  <l>Leſt that your woes belike to mine,</l>
+                  <l>And pray to God to end my grief,</l>
+                  <l>Or elſe to rid me of my life.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> F. Coles, T. Vere, J. Wright, J. Clarke, W. Thackeray, <hi>and</hi> T. Paſſinger.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
